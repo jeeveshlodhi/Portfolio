@@ -1,0 +1,46 @@
+.homeWrapper {
+  min-width: 100%;
+  min-height: 100vh;
+  z-index: 1;
+}
+.name{
+    margin-top: -10px;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 107px;
+}
+.intro{
+    font-size: 20px;
+    line-height: 40px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+.main{
+    font-family: 'rubik';
+    padding: 4rem 10rem;
+}
+.subHeading{
+    margin-top: -10px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 35px;
+    font-family: 'Poppins', sans-serif;
+}
+.link{
+    padding: 4rem 0rem;
+    width: fit-content;
+    z-index: 2;
+}
+.link p{
+    display: flex;
+    align-items: center;
+}
+.margin{
+    border-top: 1px solid white;
+    width: 55%;
+    margin-top: -10px;
+}
+.arrow{
+    padding: 0px 20px;
+    font-size: 20px;
+}

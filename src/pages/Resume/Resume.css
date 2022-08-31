@@ -1,0 +1,13 @@
+.resume{
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0rem;    
+}
+/* .homeWrapper::-webkit-scrollbar{
+    display: none;
+} */
+.resume>img{
+    /* width: 80vw; */
+    width: 60%;
+    z-index: 1;
+}
